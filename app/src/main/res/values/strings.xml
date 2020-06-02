@@ -2,7 +2,7 @@
     <string name="app_name">Weather App</string>
     <string name="show_weather">Показать погоду</string>
     <string name="show_stavropol">Ставрополь</string>
-    <string name="input_сity">Введите город или индекс:</string>
+    <string name="input_сity"><font size="20">Введите город или индекс:</font></string>
     <string name="autohint_stavropol">Stavropol</string>
 
 </resources>
